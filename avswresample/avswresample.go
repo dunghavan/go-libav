@@ -56,8 +56,8 @@ package avswresample
 import "C"
 import (
 	"errors"
-	"github.com/baohavan/go-libav/avcodec"
-	"github.com/baohavan/go-libav/avutil"
+	"github.com/dunghavan/go-libav/avcodec"
+	"github.com/dunghavan/go-libav/avutil"
 	"unsafe"
 )
 
