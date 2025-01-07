@@ -2,10 +2,7 @@ module github.com/dunghavan/go-libav
 
 go 1.22.1
 
-require (
-	github.com/dunghavan/go-libav v3.1.2+incompatible
-	github.com/shirou/gopsutil v3.21.11+incompatible
-)
+require github.com/shirou/gopsutil v3.21.11+incompatible
 
 require (
 	github.com/go-ole/go-ole v1.2.6 // indirect
